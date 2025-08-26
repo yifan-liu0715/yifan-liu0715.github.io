@@ -3,3 +3,6 @@ logo: /assets/img/profile.png
 description: MPhil in Fudan University, Computer Vision & AI | 3D Reconstruction | Neural Rendering | Model Optimization.
 theme: jekyll-theme-minimal
 github_username: yifan-liu0715
+
+sass:
+  sass_dir: _sass
