@@ -8,8 +8,8 @@ description: Computer Vision Researcher | 3D Reconstruction & Neural Rendering
 
 **Email:** Lyf_233@outlook.com  
 **Tel:** +86 17354006011  
-**GitHub:** [your-github-username](https://github.com/yifan-liu0715)  
-**Google Scholar:** [Your Scholar Profile](https://scholar.google.com/citations?hl=en&user=P-T-a8UAAAAJ)
+**GitHub:** [yifan-liu0715](https://github.com/yifan-liu0715)  
+**Google Scholar:** [Yifan Liu - Google Scholar](https://scholar.google.com/citations?hl=en&user=P-T-a8UAAAAJ)
 
 ## About Me
 
@@ -39,7 +39,7 @@ Anhui University (2016-2020)
 
 1. **Yifan Liu**, Haipeng Wang, Ni Ma. "Energy Efficiency Optimization for DAS Based on Neural Network"  
    *IEEE International Conference on Networking Systems of AI (INSAI)*, 2022  
-   [DOI] | [PDF]
+   [DOI](https://doi.org/10.1109/INSAI56792.2022.00054) | [PDF](/publications/paper.pdf)
 
 2. **Gaussian OBJ: High-Fidelity 3D Object Inpainting via Adaptive Gaussian Splatting and Semantic-Aware Projection**  
    *(Manuscript in preparation)*
