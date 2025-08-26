@@ -28,7 +28,7 @@ See my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=
 ## Contact
 
 - **Email:** Lyf_233@outlook.com
-- **Google Scholar:** [Your Scholar Profile](https://scholar.google.com/citations?hl=en&user=P-T-a8UAAAAJ)
+- **Google Scholar:** [Yifan Liu- Google Scholar](https://scholar.google.com/citations?hl=en&user=P-T-a8UAAAAJ)
 
 ## Repository Structure
  ```
