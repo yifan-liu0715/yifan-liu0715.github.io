@@ -2,3 +2,33 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+/* 学术风格美化 */
+.academic-header {
+    border-bottom: 1px solid #eaecef;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+}
+
+.publication-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.publication-item {
+    margin-bottom: 1.5rem;
+    padding-left: 1rem;
+    border-left: 3px solid #0366d6;
+}
+
+.project-card {
+    border: 1px solid #e1e4e8;
+    border-radius: 6px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    transition: box-shadow 0.2s ease;
+}
+
+.project-card:hover {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
