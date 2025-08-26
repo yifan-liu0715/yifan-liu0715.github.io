@@ -12,7 +12,7 @@ My research specializes in:
 
 ## Key Projects
 
-### [Gaussian OBJ: High-Fidelity 3D Object Inpainting]
+### Gaussian OBJ: High-Fidelity 3D Object Inpainting
 Novel framework for 3D scene inpainting using adaptive Gaussian representation and semantic-aware projection modules.
 
 ### [SAR Image Segmentation for Land-Use Planning](https://github.com/yifan-liu0715/GHY_ImageSegmentation)
